@@ -11045,16 +11045,6 @@ html {
   background-color: #1a252f;
 }
 
-
-.noto-serif-<uniquifier> {
-  font-family: "Noto Serif", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-}
-
 .libertinus-serif-display-regular {
   font-family: "Libertinus Serif Display", system-ui;
   font-weight: 400;
